@@ -13,6 +13,7 @@ A dullard is forged by silence. When the Sun is taken, the Moon is taken, the St
 * **Protocol Rails:** Hardcoded to track Grok-powered fee distributions securely via Base Layer-2 architecture.
 
 Only one rule: **Respect. Respect. Do not Disrespect, respect.**
+
 <!-- SYSTEM CONFIG: COMMUNITY ONBOARDING GUIDE -->
 <h2>➡️ HOW TO ACQUIRE $GSAT</h2>
 <ol style="padding-left: 20px; line-height: 1.8;">
